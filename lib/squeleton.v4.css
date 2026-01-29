@@ -13995,7 +13995,7 @@ button[aria-label][data-balloon-pos] {
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url('fonts/icomoon.woff2?sk') format('woff2')
+  src: url('fonts/icomoon.woff2?sq') format('woff2')
 }
 
 [class*=" iccon-"],
@@ -14517,7 +14517,7 @@ button[aria-label][data-balloon-pos] {
   content: "\e980";
 }
 
-.iccon-comment-5:before {
+.iccon-comment-51:before {
   content: "\e97d";
 }
 

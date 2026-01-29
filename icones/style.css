@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'icomoon';
   src:
-    url('fonts/icomoon.ttf?ttczv6') format('truetype'),
-    url('fonts/icomoon.woff?ttczv6') format('woff'),
-    url('fonts/icomoon.svg?ttczv6#icomoon') format('svg');
+    url('fonts/icomoon.ttf?b1tq1f') format('truetype'),
+    url('fonts/icomoon.woff?b1tq1f') format('woff'),
+    url('fonts/icomoon.svg?b1tq1f#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -533,7 +533,7 @@
   content: "\e980";
 }
 
-.iccon-comment-5:before {
+.iccon-comment-51:before {
   content: "\e97d";
 }
 
