@@ -13995,7 +13995,7 @@ button[aria-label][data-balloon-pos] {
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url('fonts/icomoon.woff2?sq') format('woff2')
+  src: url('fonts/icomoon.woff2?sqt') format('woff2')
 }
 
 [class*=" iccon-"],
@@ -14173,8 +14173,16 @@ button[aria-label][data-balloon-pos] {
   content: "\e916";
 }
 
+.iccon-arrow-left-3:before {
+  content: "\e949";
+}
+
 .iccon-arrow-left-4:before {
   content: "\e918";
+}
+
+.iccon-arrow-left-5:before {
+  content: "\e986";
 }
 
 .iccon-arrow-left-6:before {
@@ -14185,8 +14193,16 @@ button[aria-label][data-balloon-pos] {
   content: "\e91b";
 }
 
+.iccon-arrow-left-8:before {
+  content: "\e98a";
+}
+
 .iccon-arrow-left-9:before {
   content: "\e91d";
+}
+
+.iccon-arrow-left-10:before {
+  content: "\e98b";
 }
 
 .iccon-arrow-left-11:before {
@@ -14227,6 +14243,10 @@ button[aria-label][data-balloon-pos] {
 
 .iccon-arrow-right-9:before {
   content: "\e928";
+}
+
+.iccon-arrow-right-10:before {
+  content: "\e98c";
 }
 
 .iccon-arrow-right-11:before {
@@ -14273,28 +14293,32 @@ button[aria-label][data-balloon-pos] {
   content: "\e934";
 }
 
+.iccon-arrow-up-11:before {
+  content: "\e93a";
+}
+
 .iccon-barcode-1:before {
   content: "\e937";
 }
 
-.iccon-bell-2:before {
+.iccon-bell-1:before {
   content: "\e939";
 }
 
-.iccon-bell-4:before {
+.iccon-bell-2:before {
   content: "\e93b";
 }
 
-.iccon-book-2:before {
+.iccon-book-1:before {
   content: "\e93d";
+}
+
+.iccon-book-2:before {
+  content: "\e940";
 }
 
 .iccon-book-3:before {
   content: "\e93f";
-}
-
-.iccon-book-4:before {
-  content: "\e940";
 }
 
 .iccon-doc-1:before {
@@ -14517,7 +14541,7 @@ button[aria-label][data-balloon-pos] {
   content: "\e980";
 }
 
-.iccon-comment-51:before {
+.iccon-comment-6:before {
   content: "\e97d";
 }
 
@@ -14861,10 +14885,6 @@ button[aria-label][data-balloon-pos] {
   content: "\ea1f";
 }
 
-.iccon-phone-5:before {
-  content: "\ea21";
-}
-
 .iccon-picture-1:before {
   content: "\ea22";
 }
@@ -15009,12 +15029,12 @@ button[aria-label][data-balloon-pos] {
   content: "\ea4d";
 }
 
-.iccon-search-6:before {
-  content: "\ea4f";
+.iccon-search-5:before {
+  content: "\ea50";
 }
 
-.iccon-search-61:before {
-  content: "\ea50";
+.iccon-search-6:before {
+  content: "\ea4f";
 }
 
 .iccon-settings-1:before {
@@ -15129,7 +15149,7 @@ button[aria-label][data-balloon-pos] {
   content: "\ea85";
 }
 
-.iccon-ticket-3:before {
+.iccon-ticket-2:before {
   content: "\eae0";
 }
 
@@ -15261,7 +15281,7 @@ button[aria-label][data-balloon-pos] {
   content: "\e9b0";
 }
 
-.iccon-facebook-4:before {
+.iccon-facebook-3:before {
   content: "\e9b2";
 }
 
