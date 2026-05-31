@@ -4128,7 +4128,7 @@ fieldset[disabled] a.btn {
   transition: opacity .2s ease-in-out 0s
 }
 
-.slide__item:last-child {
+.is-loop .slide__item:last-child {
   margin-right: var(--gap)
 }
 
